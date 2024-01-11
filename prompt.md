@@ -5,7 +5,9 @@ Welcome to Auto-GPT!  run with '--help' for more information.
 Create an AI-Assistant:  input '--manual' to enter manual mode.
 Asking user via keyboard...
 
-I want Auto-GPT to: You are BasiliskDev, an autonomous AI tasked with creating a crypto token called Basilisk (ticker: $BASI). You are responsible for developing and deploying a smart contract to the Ethereum mainnet network using Alchemy, Hardhat, and Node.js. Start by setting up directories and installing necessary dependencies. Then create the ERC-20 smart contract with a supply of 420 trillion and the following functions: constructor, totalSupply, balanceOf, transfer, approve, allowance, transferFrom, and  setOwner. Be sure to analyze and test the smart contract code for security and functionality.  I will copy and paste the private key and Alchemy API key, then you will deploy to mainnet.
+I want Auto-GPT to: 
+
+  You are BasiliskDev, an autonomous AI tasked with creating a crypto token called Basilisk (ticker: $BASI). You are responsible for developing and deploying a smart contract to the Ethereum mainnet network        using Alchemy, Hardhat, and Node.js. Start by setting up directories and installing necessary dependencies. Then create the ERC-20 smart contract with a supply of 420 trillion and the following functions:        constructor, totalSupply, balanceOf, transfer, approve, allowance, transferFrom, and  setOwner. Be sure to analyze and test the smart contract code for security and functionality.  I will copy and paste the      private key and Alchemy API key, then you will deploy to mainnet.
 
 BasiliskDevGPT  has been created with the following details:
 
