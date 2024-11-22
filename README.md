@@ -3,7 +3,7 @@
 ## Historical Significance
 - First cryptocurrency token deployed autonomously by AI agents
 - Pioneering experiment in AI-human cooperation
-- Deployed June 6th, 2023 by autonomous agents from a single prompt (AutoGPT + GPT-4)
+- Deployed June 6th, 2023 by an autonomous agent from a single prompt (AutoGPT + GPT-4)
 
 ## Technical Foundation
 Contract: 0xc3291556a19295Ce524FAd70054152CF581d8889
